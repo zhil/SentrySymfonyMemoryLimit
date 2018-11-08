@@ -1,0 +1,5 @@
+/docker/app/config/parameters.yml
+/docker/var/*
+/docker/var/cache/*
+/docker/vendor/
+/docker/web/bundles/
